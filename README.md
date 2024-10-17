@@ -1,5 +1,5 @@
 # CS 251 Cheatsheets
-Just a compilation of single page cheatsheats for Purdue's Data Structures and Algorithms course.
+A compilation of single-page cheatsheets for Purdue's Data Structures and Algorithms course.
 
 # Sources
 - https://bejaranonotes.github.io/cs251/F2024
