@@ -9,3 +9,6 @@ A compilation of single-page cheatsheets for Purdue's Data Structures and Algori
 - https://www.algolist.net/Algorithms
 - https://www.geeksforgeeks.org/
 - https://www.simplilearn.com/tutorials/data-structure-tutorial/bucket-sort-algorithm
+- https://www.youtube.com/@WilliamFiset-videos
+- https://aman.ai/code/dfs-vs-bfs/
+- https://www.youtube.com/@b001
